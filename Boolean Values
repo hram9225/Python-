@@ -1,0 +1,12 @@
+#Boolean Values Basics
+
+#Boolean data type only has two possible data types, True and False. 
+
+bValue = True
+bValue  
+#evaluates to True
+true
+#returns an error since true is lowercase, it is not the boolean value of true, so Python thinks it is a variable, and we have not defined a variable named true. 
+
+True = 2 + 2
+#returns error since True is a boolean data type and cannot be assigned as a variable. 
